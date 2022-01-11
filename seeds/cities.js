@@ -8,7 +8,7 @@ module.exports = [
         rank: "1",
         state: "New York",
     },
-    {
+    {   
         city: "Los Angeles",
         growth_from_2000_to_2013: "4.8%",
         latitude: 34.0522342,
